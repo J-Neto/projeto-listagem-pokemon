@@ -1,4 +1,4 @@
-<h1 align="center">Listagem Pokémon - Conheça alguns pokémons 🔴</h1>
+<h1 align="center">Pokémon List - Meet some pokémons 🔴</h1>
 
 <p align="center">
  <a href="#description">Description</a> •
@@ -41,7 +41,15 @@
 
 📑 Requirements
 =======================
-No requirements are needed
+Before starting, you must have installed the following tools on your machine: [GIT](https://git-scm.com/downloads). Also it's nice to have an editor to work with the code like [VSCode](https://code.visualstudio.com/).
+
+```bash
+# Install live server extension with this shortcut
+$ Ctrl + shift + x
+
+# With the left button on mouse, click on "index.html" and select "open with live server", or press the shortcut
+$ Alt + L Alt + O
+```
 
 😎 Author
 =======================
