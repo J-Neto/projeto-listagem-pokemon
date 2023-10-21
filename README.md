@@ -12,7 +12,7 @@
 </h4>
 
 <p align="center">
-    <img alt="projeto listagem-pokemon" src=".github/preview.png" width="100%">
+    <img alt="projeto listagem-pokemon" src=".github/preview.gif" width="100%">
 </p>
 
 💻 Description
